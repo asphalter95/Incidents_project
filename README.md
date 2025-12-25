@@ -113,7 +113,7 @@ recall@20%  (53/56≈95%) Precision@20%   0.61%   Lift@20%    4.7x
 Для запуска нужно клонировать
 ```bash
 git clone https://github.com/asphalter95/Incidents_project.git
-cd ./INCIDENTS
+cd ./Incidents_project
 docker build -t incidents_project .
 docker run -p 8501:8501 incidents_project
 ```
