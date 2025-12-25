@@ -1,5 +1,5 @@
 *
-!text_tokenizer
+!text_tokenizer/**
 !app.py
 !app_l.py
 !catboost_final.cbm
@@ -10,7 +10,7 @@
 !INCIDENTS.ipynb
 !README.md
 !requirements.txt
-!ruroberta_tickets_mlm_50000
+!ruroberta_tickets_mlm_50000/**
 !text_only_head.pt
 !.gitignore
 !image.png
